@@ -1,8 +1,4 @@
-package com.oysteregypt.oyster.injection.modules.okhttpclient
 
-import com.oysteregypt.oyster.BuildConfig
-import com.oysteregypt.oyster.dataSource.pref.AppPreferencesHelper
-import com.oysteregypt.oyster.injection.modules.jsonParser.gsonModule.GsonModule
 import dagger.Module
 import dagger.Provides
 import okhttp3.Cache
