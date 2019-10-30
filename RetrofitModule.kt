@@ -1,12 +1,4 @@
-package com.oysteregypt.oyster.injection.modules.retrofitModule
 
-import android.content.Context
-import com.google.gson.Gson
-import com.google.gson.GsonBuilder
-import com.oysteregypt.oyster.injection.baseUrl.BaseUrlModule
-import com.oysteregypt.oyster.injection.modules.jsonParser.gsonModule.DateDeserializer
-import com.oysteregypt.oyster.injection.modules.jsonParser.gsonModule.GsonModule
-import com.oysteregypt.oyster.injection.modules.okhttpclient.OkhttpClientModule
 import dagger.Module
 import dagger.Provides
 import okhttp3.OkHttpClient
